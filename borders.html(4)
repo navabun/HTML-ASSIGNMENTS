@@ -1,0 +1,51 @@
+4.write a html program Tables with borders - Adding the default table borders
+
+<!doctype html>
+<head>
+<title>tables</title>
+<body>
+<h2>welcome to tables</h2> 
+
+<table border="2" width="100%"height="80%"style="text-align:center" bgcolor="yellow">
+<tr>
+<th>snum</th>
+<th> firstname</th>
+<th>lastname</th>
+<th>contact</th>
+<th>address</th>
+</tr>
+<tr>
+<td>1</td>
+<td>keerthi</td>
+<td>suresh</td>
+<td>66547285845</td>
+<td>mahanati</td>
+</tr>
+<td>2</td>
+<td>prabhas</td>
+<td>fighter</td>
+<td>563887625738</td>
+<td>bahubali</td>
+</tr>
+<tr>
+<td>3</td>
+<td>allu arjun</td>
+<td>stylish</td>
+<td>5444667564</td>
+<td>bunny</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</head>
+</html>
